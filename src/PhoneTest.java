@@ -8,7 +8,7 @@ public class PhoneTest {
 
 
 
-         System.out.println(ph1.number + " " + ph1.model + " " + ph1.weight);
+        System.out.println(ph1.number + " " + ph1.model + " " + ph1.weight);
         System.out.println(ph2.number + " " + ph2.model + " " + ph2.weight);
         System.out.println(ph3.number + " " + ph3.model + " " + ph3.weight);
 
