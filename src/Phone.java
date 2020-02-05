@@ -28,22 +28,26 @@ public class Phone {
 
 
     public Phone (int n, int m, int w){
-        number = n;
-        model = m;
-        weight = w;
+
     }
 
+    public Phone (int number, int model){
+
+    }
+
+    public Phone(){}
 
 
 
 
 
 
-
-
+/*
     public void receiveCall(String name){
         System.out.println("Звонит " +this.name);
     }
+
+ */
 
     public int getNumber(int number) {
         return this.number;
